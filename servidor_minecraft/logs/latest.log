@@ -1025,3 +1025,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [20Dec2024 13:26:28.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [20Dec2024 13:26:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Created new objective [Vida]]
 [20Dec2024 13:27:01.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set display slot list to show objective Vida]
+[20Dec2024 13:29:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Dec2024 13:29:51.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[20Dec2024 13:32:08.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Dec2024 13:36:46.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Not a Fan of the Red Flavor]
+[20Dec2024 13:37:03.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Revoked 5234 advancements from MazeHero547]
+[20Dec2024 13:37:03.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Ice and Fire]
+[20Dec2024 13:37:34.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[20Dec2024 13:37:34.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -0.6413670107202591,-5.329172358357837,-9.373603250744623
+[20Dec2024 13:40:00.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -8.565142994936267,0.604424101326714,-5.45508557118535
+[20Dec2024 13:40:00.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3465ms or 69 ticks behind
+[20Dec2024 13:40:10.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Lighthouse]
+[20Dec2024 13:40:31.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -0.4430329104539936,8.240068175931611,-5.76933263179717
