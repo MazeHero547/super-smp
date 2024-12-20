@@ -5449,3 +5449,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [20Dec2024 13:40:39.621] [Worker-Main-33/DEBUG] [ModernFix/]: Structure iceandfire:village/plains_scriber_1 is being run through DFU (hash 76a607dd4093491f52ecde52887eafe16741dcdeacbe41d03515821e3ebfb9df), this will cause launch time delays
 [20Dec2024 13:40:39.750] [Worker-Main-33/DEBUG] [ModernFix/]: Structure morevillagers:village/plains/plains_hunter is being run through DFU (hash ceabc85854d08b2b69c17ca9db1e2f2cabee1a5a7bab55dc8c2738d23a09a5d5), this will cause launch time delays
 [20Dec2024 13:40:47.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[20Dec2024 13:41:03.109] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[20Dec2024 13:41:13.077] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[20Dec2024 13:41:20.858] [Worker-Main-28/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:pumkin_evil is being run through DFU (hash 7d7eb33361e372cbc1873e0befeb6c97ac5ab6b5246ef824001c5de83c494e4b), this will cause launch time delays
+[20Dec2024 13:41:40.048] [Worker-Main-28/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:lookout_tower is being run through DFU (hash 69bd5f46eaa56de8fcad01102a19c9907f355ff2926fe467684f07d855c1da43), this will cause launch time delays
+[20Dec2024 13:42:14.487] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[20Dec2024 13:42:14.493] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[20Dec2024 13:45:22.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[20Dec2024 13:45:22.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[20Dec2024 13:45:37.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 13:45:37.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 13:46:08.337] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.netherexp.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[20Dec2024 13:46:08.347] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[20Dec2024 13:49:14.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[20Dec2024 13:50:17.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Dec2024 13:50:37.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 13:50:37.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
