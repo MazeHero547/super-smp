@@ -816,3 +816,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [21Dec2024 02:23:52.469] [Server thread/INFO] [Easy NPC/]: Opening menu 80a86b31-20cd-4bb5-b93e-aed667db5a36 for npc 79a97340-02d0-4df5-80e1-db89b7585a94 and player ServerPlayer['MazeHero547'/241, l='ServerLevel[world]', x=23.95, y=111.00, z=-33.55] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Jeff]}]
 [21Dec2024 02:23:53.732] [Server thread/INFO] [Easy NPC/]: Opening menu 31698766-1a53-4be5-9400-f4a55a1979d0 for npc 79a97340-02d0-4df5-80e1-db89b7585a94 and player ServerPlayer['MazeHero547'/241, l='ServerLevel[world]', x=23.95, y=111.00, z=-33.55] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Jeff]}]
 [21Dec2024 02:24:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Dec2024 02:34:32.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Monster Hunter]
+[21Dec2024 02:35:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Acquire Hardware]
+[21Dec2024 02:36:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]

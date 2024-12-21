@@ -832,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-21 02:28:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
     "criteria": {
       "has_granite": "2024-12-21 02:21:35 +0000"
@@ -1615,6 +1621,18 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-21 02:18:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-21 02:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-21 02:23:30 +0000"
     },
     "done": true
   },
