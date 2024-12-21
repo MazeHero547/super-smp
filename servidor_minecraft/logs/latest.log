@@ -819,3 +819,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [21Dec2024 02:34:32.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Monster Hunter]
 [21Dec2024 02:35:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Acquire Hardware]
 [21Dec2024 02:36:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Dec2024 02:41:42.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Dark Metallurgy]
+[21Dec2024 02:42:50.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Dec2024 02:44:12.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vex
+[21Dec2024 02:44:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Dec2024 02:45:04.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vex
