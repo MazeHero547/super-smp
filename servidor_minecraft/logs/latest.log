@@ -824,3 +824,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [21Dec2024 02:44:12.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vex
 [21Dec2024 02:44:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [21Dec2024 02:45:04.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vex
+[21Dec2024 03:25:31.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Dec2024 03:26:10.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Dec2024 03:26:45.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[21Dec2024 03:26:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
