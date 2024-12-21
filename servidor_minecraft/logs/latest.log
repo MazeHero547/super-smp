@@ -828,3 +828,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [21Dec2024 03:26:10.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [21Dec2024 03:26:45.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [21Dec2024 03:26:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[21Dec2024 03:27:46.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Stray
+[21Dec2024 03:30:51.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[21Dec2024 03:30:51.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
