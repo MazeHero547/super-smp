@@ -2346,6 +2346,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "pumpkin_pie": "2024-12-22 22:03:38 +0000",
       "carrot": "2024-12-21 02:34:28 +0000"
     },
     "done": false
@@ -3465,9 +3466,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2024-12-22 21:56:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 22:05:24 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_eggs": {
+    "criteria": {
+      "has_eggs": "2024-12-22 22:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-22 22:04:08 +0000"
     },
     "done": true
   },
@@ -3483,6 +3508,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-22 21:46:41 +0000"
@@ -3492,6 +3523,18 @@
   "netherexp:recipes/misc/skeleton_skull_candle": {
     "criteria": {
       "has_item": "2024-12-22 21:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-22 22:03:13 +0000"
     },
     "done": true
   },
@@ -3519,6 +3562,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/decorations/bedroll": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2024-12-22 21:53:14 +0000"
@@ -3528,6 +3577,12 @@
   "biomancy:recipes/biomancy/decomposing/dirt": {
     "criteria": {
       "has_dirt": "2024-12-22 21:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
     },
     "done": true
   },
@@ -3567,9 +3622,33 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/leather": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2024-12-22 21:46:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 22:05:24 +0000"
     },
     "done": true
   },
@@ -3579,9 +3658,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-22 21:46:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/beef": {
+    "criteria": {
+      "has_beef": "2024-12-22 22:05:37 +0000"
     },
     "done": true
   },
@@ -3609,6 +3706,31 @@
     },
     "done": true
   },
+  "biomancy:biomancy/raw_meat_collection": {
+    "criteria": {
+      "has_raw_beef": "2024-12-22 22:05:37 +0000",
+      "has_raw_porkchop": "2024-12-22 22:05:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-22 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 22:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-22 21:46:41 +0000"
@@ -3618,6 +3740,12 @@
   "biomancy:recipes/biomancy/decomposing/skeleton_skull": {
     "criteria": {
       "has_skeleton_skull": "2024-12-22 21:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-22 22:04:43 +0000"
     },
     "done": true
   },
@@ -3633,9 +3761,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-22 22:03:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-22 21:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-22 22:03:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-22 22:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
     },
     "done": true
   },
@@ -3657,6 +3815,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-22 21:53:13 +0000"
@@ -3666,6 +3830,18 @@
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_small_flowers": {
     "criteria": {
       "has_small_flowers": "2024-12-22 21:52:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 22:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-22 22:04:43 +0000"
     },
     "done": true
   },
@@ -3679,6 +3855,18 @@
     "criteria": {
       "has_pumpkin": "2024-12-22 21:56:18 +0000",
       "has_the_recipe": "2024-12-22 21:56:18 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 22:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 22:05:24 +0000"
     },
     "done": true
   },
@@ -3697,6 +3885,12 @@
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2024-12-22 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-22 22:04:43 +0000"
     },
     "done": true
   },
@@ -3724,9 +3918,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-22 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-22 22:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-22 21:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-22 22:04:43 +0000"
     },
     "done": true
   },
@@ -3739,6 +3951,18 @@
   "biomancy:recipes/biomancy/bio_forging/player_head": {
     "criteria": {
       "has_skeleton_skull": "2024-12-22 21:52:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_egg": {
+    "criteria": {
+      "has_egg": "2024-12-22 22:03:13 +0000"
     },
     "done": true
   },
@@ -3760,9 +3984,21 @@
     },
     "done": true
   },
+  "biomancy:biomancy/root": {
+    "criteria": {
+      "has_raw_meats": "2024-12-22 22:05:24 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/diamond": {
     "criteria": {
       "has_diamond": "2024-12-22 21:46:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_leather": {
+    "criteria": {
+      "has_leather": "2024-12-22 22:05:37 +0000"
     },
     "done": true
   },
@@ -3781,6 +4017,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-22 21:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-22 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-22 22:03:13 +0000"
     },
     "done": true
   },
