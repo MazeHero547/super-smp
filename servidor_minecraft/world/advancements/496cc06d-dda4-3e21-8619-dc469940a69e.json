@@ -2369,6 +2369,7 @@
       "minecraft:spider": "2024-12-21 02:41:04 +0000",
       "minecraft:creeper": "2024-12-22 16:05:13 +0000",
       "minecraft:evoker": "2024-12-23 00:44:22 +0000",
+      "minecraft:zombified_piglin": "2024-12-23 20:46:23 +0000",
       "minecraft:wither_skeleton": "2024-12-23 03:07:14 +0000",
       "minecraft:husk": "2024-12-23 01:46:19 +0000",
       "minecraft:cave_spider": "2024-12-21 02:35:28 +0000",
@@ -5954,6 +5955,18 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-23 03:21:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/dropbear_claw": {
+    "criteria": {
+      "has_dropbear_claw": "2024-12-23 20:53:20 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2024-12-23 20:46:12 +0000"
     },
     "done": true
   },
