@@ -2366,6 +2366,7 @@
       "minecraft:blaze": "2024-12-23 03:04:34 +0000",
       "minecraft:skeleton": "2024-12-22 16:06:11 +0000",
       "minecraft:vindicator": "2024-12-23 00:42:10 +0000",
+      "minecraft:magma_cube": "2024-12-23 20:56:43 +0000",
       "minecraft:spider": "2024-12-21 02:41:04 +0000",
       "minecraft:creeper": "2024-12-22 16:05:13 +0000",
       "minecraft:evoker": "2024-12-23 00:44:22 +0000",
@@ -5556,11 +5557,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-23 20:58:08 +0000",
       "minecraft:nether_wastes": "2024-12-23 03:02:41 +0000",
+      "minecraft:soul_sand_valley": "2024-12-23 21:02:22 +0000",
       "minecraft:basalt_deltas": "2024-12-23 03:21:06 +0000",
       "minecraft:warped_forest": "2024-12-23 03:06:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "netherexp:recipes/nether_bricks/nether_brick_pillar": {
     "criteria": {
@@ -5958,6 +5961,36 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2024-12-23 21:04:49 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2024-12-23 21:02:22 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/dropbear_claw": {
     "criteria": {
       "has_dropbear_claw": "2024-12-23 20:53:20 +0000"
@@ -5967,6 +6000,54 @@
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2024-12-23 20:46:12 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/brown_dye_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2024-12-23 21:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2024-12-23 20:56:15 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2024-12-23 21:04:37 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 21:01:25 +0000"
     },
     "done": true
   },
