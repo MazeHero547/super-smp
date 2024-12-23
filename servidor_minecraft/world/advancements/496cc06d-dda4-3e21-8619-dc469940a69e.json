@@ -5176,6 +5176,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "plains": "2024-12-23 23:37:11 +0000",
       "snowy": "2024-12-23 01:26:14 +0000"
     },
     "done": false
@@ -6524,9 +6525,10 @@
   },
   "call_of_yucutan:obtain_both_weapons": {
     "criteria": {
-      "obtain_both_weapons_0": "2024-12-23 23:33:19 +0000"
+      "obtain_both_weapons_0": "2024-12-23 23:33:19 +0000",
+      "obtain_both_weapons_1": "2024-12-23 23:39:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
