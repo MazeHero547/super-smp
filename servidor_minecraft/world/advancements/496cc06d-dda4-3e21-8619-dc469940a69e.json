@@ -2359,6 +2359,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-22 22:12:12 +0000",
+      "neapolitan:banana": "2024-12-23 23:32:02 +0000",
       "upgrade_aquatic:mulberry": "2024-12-23 00:00:55 +0000",
       "cooked_mutton": "2024-12-23 21:35:40 +0000",
       "sweet_berries": "2024-12-23 00:07:04 +0000",
@@ -6467,15 +6468,93 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-23 23:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "neapolitan:chimpanzee": "2024-12-23 23:29:01 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 23:27:50 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-23 23:25:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/gummy/banana": {
+    "criteria": {
+      "has_banana": "2024-12-23 23:28:57 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2024-12-23 23:21:29 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 23:27:50 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_both_weapons": {
+    "criteria": {
+      "obtain_both_weapons_0": "2024-12-23 23:33:19 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-23 23:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 23:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 23:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 23:27:50 +0000"
     },
     "done": true
   },
