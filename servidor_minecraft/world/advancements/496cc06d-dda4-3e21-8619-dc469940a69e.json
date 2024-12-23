@@ -5994,6 +5994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-23 21:45:27 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/gravedigger": {
     "criteria": {
       "has_item": "2024-12-23 21:06:32 +0000"
@@ -6009,6 +6015,12 @@
   "netherexp:recipes/bone_blocks/bone_cortical": {
     "criteria": {
       "has_item": "2024-12-23 21:26:38 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:use_hematite_shield": {
+    "criteria": {
+      "use_hematite_shield_0": "2024-12-23 21:55:05 +0000"
     },
     "done": true
   },
@@ -6033,6 +6045,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-23 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-23 21:45:27 +0000"
     },
     "done": true
   },
@@ -6108,6 +6126,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:use_mayan_calendar": {
+    "criteria": {
+      "use_mayan_calendar_0": "2024-12-23 21:48:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-23 21:34:37 +0000"
@@ -6132,6 +6156,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/cocoa_beans": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-23 21:45:27 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2024-12-23 21:26:38 +0000"
@@ -6153,6 +6183,12 @@
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2024-12-23 20:46:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_cocoa_beans": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-23 21:45:27 +0000"
     },
     "done": true
   },
@@ -6210,6 +6246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-23 21:52:49 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
       "has_item": "2024-12-23 21:11:43 +0000"
@@ -6264,6 +6306,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-23 21:52:49 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/spruce_drawers": {
     "criteria": {
       "has_chest": "2024-12-23 21:30:29 +0000"
@@ -6285,6 +6333,18 @@
   "netherexp:recipes/sanctum/soul_glass": {
     "criteria": {
       "item": "2024-12-23 21:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-23 21:52:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-23 21:48:11 +0000"
     },
     "done": true
   },
@@ -6317,6 +6377,12 @@
       "awake": "2024-12-23 21:45:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-23 21:52:49 +0000"
+    },
+    "done": true
   },
   "mynethersdelight:recipes/cooking/burn_roll": {
     "criteria": {
