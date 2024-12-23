@@ -5317,3 +5317,159 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [23Dec2024 21:25:02.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 21:26:18.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [23Dec2024 21:26:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:30:02.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:30:02.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:30:28.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:30:43.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:31:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:31:21.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:31:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:33:50.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:35:02.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:35:02.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:35:57.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:36:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:37:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:37:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:37:52.068] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:jungle took 2776 ms
+[23Dec2024 21:37:52.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[23Dec2024 21:38:09.641] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[23Dec2024 21:38:10.397] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[23Dec2024 21:38:10.404] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_0
+[23Dec2024 21:38:10.407] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_2
+[23Dec2024 21:38:11.871] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[23Dec2024 21:38:11.997] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[23Dec2024 21:38:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to 1735.500000, 81.000000, -1417.500000]
+[23Dec2024 21:38:22.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12516ms or 250 ticks behind
+[23Dec2024 21:38:23.417] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[23Dec2024 21:38:23.424] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[23Dec2024 21:38:36.598] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[23Dec2024 21:38:42.334] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[23Dec2024 21:38:42.352] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[23Dec2024 21:38:42.365] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[23Dec2024 21:38:42.378] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[23Dec2024 21:38:42.384] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0 is being run through DFU (hash 3713743dd59fdcaa5def3a18f38b05b1b7676b223ad995b9372d55019a1dcb07), this will cause launch time delays
+[23Dec2024 21:38:43.410] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0 is being run through DFU (hash 9336d663b637d660a35406b57f5adc6e83752fbd4b72862c2498411c40245398), this will cause launch time delays
+[23Dec2024 21:38:43.460] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[23Dec2024 21:38:48.100] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[23Dec2024 21:38:49.756] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_hunter
+[23Dec2024 21:38:49.761] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_oceanographer
+[23Dec2024 21:38:49.924] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_engineer
+[23Dec2024 21:38:49.986] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_woodworker
+[23Dec2024 21:38:49.988] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_florist
+[23Dec2024 21:38:50.519] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[23Dec2024 21:38:56.202] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[23Dec2024 21:39:00.206] [Worker-Main-10/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/sorcerer is being run through DFU (hash 9a7b825d3313d39f9d2bd9e30ffb1e8a01bb5758f46b27ff9304b21ef8d018b5), this will cause launch time delays
+[23Dec2024 21:39:09.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4036ms or 80 ticks behind
+[23Dec2024 21:39:11.776] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[23Dec2024 21:39:19.929] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.930] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.931] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.931] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.931] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.932] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.932] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.933] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.933] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.934] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.934] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.935] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.938] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.938] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.939] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.941] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.942] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.942] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.943] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.943] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.944] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.944] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.945] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.946] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.946] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.947] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.947] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.950] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.951] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.951] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.952] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.687] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.688] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.688] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.689] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.689] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.690] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.690] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.690] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.691] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.691] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.692] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.692] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.693] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.693] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.695] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.695] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.696] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.696] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.697] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.697] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.698] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.703] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.704] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.704] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.705] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.705] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.706] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.706] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.706] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.710] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.711] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.711] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.712] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.712] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.713] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.714] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.716] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.716] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.717] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.718] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.718] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:40:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Wireless Network]
+[23Dec2024 21:40:21.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:40:21.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:40:25.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Danger: High Voltage]
+[23Dec2024 21:40:38.836] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[23Dec2024 21:40:46.907] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[23Dec2024 21:40:46.939] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[23Dec2024 21:40:46.963] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[23Dec2024 21:40:46.969] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[23Dec2024 21:40:47.050] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[23Dec2024 21:40:47.077] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_part_0 is being run through DFU (hash 0ffa0ef9ae80665fa9c353ab5c7ec1bffe19e10c8b773fcfdb17a11bbcf7c79e), this will cause launch time delays
+[23Dec2024 21:40:47.280] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[23Dec2024 21:40:47.289] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[23Dec2024 21:40:47.289] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[23Dec2024 21:40:47.289] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[23Dec2024 21:40:47.304] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[23Dec2024 21:40:47.318] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[23Dec2024 21:40:47.338] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[23Dec2024 21:40:47.356] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[23Dec2024 21:40:47.390] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[23Dec2024 21:40:47.421] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[23Dec2024 21:40:47.461] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[23Dec2024 21:41:11.788] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illager_fort/illager_fort
+[23Dec2024 21:42:24.705] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_1
+[23Dec2024 21:44:15.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[23Dec2024 21:45:23.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:45:23.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:45:45.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Dec2024 21:48:01.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Looking for the Moon]
+[23Dec2024 21:48:11.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Gone Bananas!]

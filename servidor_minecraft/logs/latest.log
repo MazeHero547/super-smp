@@ -835,3 +835,108 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [23Dec2024 21:24:32.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [23Dec2024 21:26:18.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [23Dec2024 21:26:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:30:28.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:30:43.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:31:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:31:21.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:31:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:33:50.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:35:57.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:36:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:37:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:37:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:37:52.068] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:jungle took 2776 ms
+[23Dec2024 21:37:52.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[23Dec2024 21:38:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to 1735.500000, 81.000000, -1417.500000]
+[23Dec2024 21:38:22.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12516ms or 250 ticks behind
+[23Dec2024 21:38:36.598] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[23Dec2024 21:38:48.100] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[23Dec2024 21:39:09.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4036ms or 80 ticks behind
+[23Dec2024 21:39:11.776] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[23Dec2024 21:39:19.929] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.930] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.931] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.931] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.931] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.932] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.932] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.933] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.933] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.934] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.934] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.935] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.937] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.938] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.938] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.939] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.941] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.942] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.942] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.943] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.943] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.944] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.944] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.945] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.946] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.946] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.947] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.947] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.950] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.951] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.951] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:19.952] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.687] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.688] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.688] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.689] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.689] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.690] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.690] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.690] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.691] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.691] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.692] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.692] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.693] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.693] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.695] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.695] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.696] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.696] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.697] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.697] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.698] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.703] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.704] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.704] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.705] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.705] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.706] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.706] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.706] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.710] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.711] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.711] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.712] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.712] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.713] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.714] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.716] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.716] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.717] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.718] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:39:24.718] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Dec2024 21:40:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Wireless Network]
+[23Dec2024 21:40:25.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Danger: High Voltage]
+[23Dec2024 21:44:15.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[23Dec2024 21:45:45.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Dec2024 21:48:01.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Looking for the Moon]
+[23Dec2024 21:48:11.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Gone Bananas!]
