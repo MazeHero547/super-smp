@@ -5973,6 +5973,18 @@
     },
     "done": true
   },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2024-12-23 21:22:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rodeo_stampede": {
+    "criteria": {
+      "used_item": "2024-12-23 21:20:16 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/gravedigger": {
     "criteria": {
       "has_item": "2024-12-23 21:06:32 +0000"
@@ -5994,6 +6006,18 @@
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
       "condition": "2024-12-23 21:02:22 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2024-12-23 21:21:50 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/netherite_plating": {
+    "criteria": {
+      "has_item": "2024-12-23 21:23:54 +0000"
     },
     "done": true
   },
@@ -6078,6 +6102,12 @@
   "mynethersdelight:recipes/misc/magma_cake_alt": {
     "criteria": {
       "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2024-12-23 21:21:50 +0000"
     },
     "done": true
   },

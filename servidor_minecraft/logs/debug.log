@@ -5268,3 +5268,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [23Dec2024 21:15:19.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/9745, l='ServerLevel[world]', x=847.50, y=47.00, z=-650.50]
 [23Dec2024 21:15:19.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/9746, l='ServerLevel[world]', x=844.50, y=47.00, z=-648.50]
 [23Dec2024 21:15:19.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/9747, l='ServerLevel[world]', x=844.50, y=47.00, z=-652.50]
+[23Dec2024 21:20:02.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:20:02.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:20:16.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Rodeo Stampede]
+[23Dec2024 21:21:39.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[23Dec2024 21:21:45.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:21:50.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Capturing Mobs]
+[23Dec2024 21:21:58.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[23Dec2024 21:22:00.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:22:02.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[23Dec2024 21:22:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:22:05.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Capture a mob using a Capture Cell]
+[23Dec2024 21:22:31.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[23Dec2024 21:22:32.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:24:32.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:24:47.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_engineer
+[23Dec2024 21:24:47.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_oceanographer
+[23Dec2024 21:24:47.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_hunter
+[23Dec2024 21:24:47.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_woodworker
+[23Dec2024 21:24:47.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_florist
+[23Dec2024 21:24:47.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[23Dec2024 21:24:50.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[23Dec2024 21:24:50.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[23Dec2024 21:24:50.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[23Dec2024 21:24:50.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[23Dec2024 21:24:50.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[23Dec2024 21:24:50.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[23Dec2024 21:24:50.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[23Dec2024 21:24:50.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_1
+[23Dec2024 21:24:50.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
+[23Dec2024 21:24:50.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[23Dec2024 21:24:50.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[23Dec2024 21:24:50.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/necromancer
+[23Dec2024 21:24:50.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[23Dec2024 21:24:50.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/alchemist
+[23Dec2024 21:24:50.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[23Dec2024 21:24:50.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[23Dec2024 21:24:50.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[23Dec2024 21:24:50.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[23Dec2024 21:24:50.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_3
+[23Dec2024 21:24:50.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[23Dec2024 21:24:50.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[23Dec2024 21:24:50.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[23Dec2024 21:24:50.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[23Dec2024 21:24:50.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[23Dec2024 21:24:50.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[23Dec2024 21:25:02.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:25:02.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:26:18.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:26:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
