@@ -5218,3 +5218,53 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [23Dec2024 21:08:31.283] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/6092, l='ServerLevel[world]', x=975.50, y=53.00, z=-603.50]
 [23Dec2024 21:08:31.285] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/6093, l='ServerLevel[world]', x=972.50, y=53.00, z=-601.50]
 [23Dec2024 21:08:31.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/6094, l='ServerLevel[world]', x=972.50, y=53.00, z=-605.50]
+[23Dec2024 21:09:03.183] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/6372, l='ServerLevel[world]', x=967.50, y=53.00, z=-604.50]
+[23Dec2024 21:09:03.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/6425, l='ServerLevel[world]', x=969.50, y=53.00, z=-604.50]
+[23Dec2024 21:09:03.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/6426, l='ServerLevel[world]', x=966.50, y=53.00, z=-602.50]
+[23Dec2024 21:09:03.684] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/6427, l='ServerLevel[world]', x=966.50, y=53.00, z=-606.50]
+[23Dec2024 21:09:45.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[23Dec2024 21:09:57.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Skeletosaurus
+[23Dec2024 21:09:58.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[23Dec2024 21:09:59.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[23Dec2024 21:09:59.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_2
+[23Dec2024 21:09:59.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_3_stairs
+[23Dec2024 21:09:59.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_0
+[23Dec2024 21:09:59.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_1
+[23Dec2024 21:09:59.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_top_0
+[23Dec2024 21:09:59.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/iron_golem_normal_0
+[23Dec2024 21:09:59.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_0
+[23Dec2024 21:09:59.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_1
+[23Dec2024 21:09:59.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_0
+[23Dec2024 21:09:59.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_3
+[23Dec2024 21:09:59.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[23Dec2024 21:09:59.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[23Dec2024 21:09:59.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[23Dec2024 21:09:59.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[23Dec2024 21:10:02.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:10:02.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:10:02.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[23Dec2024 21:10:03.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[23Dec2024 21:10:03.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/inquisitor
+[23Dec2024 21:10:03.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[23Dec2024 21:10:04.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:10:16.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:10:21.790] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/7949, l='ServerLevel[world]', x=966.50, y=54.00, z=-598.50]
+[23Dec2024 21:10:22.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/8028, l='ServerLevel[world]', x=969.50, y=54.00, z=-599.50]
+[23Dec2024 21:10:22.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/8029, l='ServerLevel[world]', x=966.50, y=54.00, z=-597.50]
+[23Dec2024 21:10:22.305] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/8030, l='ServerLevel[world]', x=966.50, y=54.00, z=-601.50]
+[23Dec2024 21:10:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[23Dec2024 21:10:39.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Skeletosaurus
+[23Dec2024 21:10:46.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:11:02.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[23Dec2024 21:11:23.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/8989, l='ServerLevel[world]', x=952.50, y=57.00, z=-583.50]
+[23Dec2024 21:11:23.582] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/8990, l='ServerLevel[world]', x=953.50, y=57.00, z=-583.50]
+[23Dec2024 21:11:23.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/8991, l='ServerLevel[world]', x=950.50, y=57.00, z=-581.50]
+[23Dec2024 21:11:23.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/8992, l='ServerLevel[world]', x=950.50, y=57.00, z=-585.50]
+[23Dec2024 21:11:29.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Non-renewable? Yeah, right..]
+[23Dec2024 21:14:15.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[23Dec2024 21:15:02.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:15:02.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:15:18.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/9744, l='ServerLevel[world]', x=845.50, y=47.00, z=-650.50]
+[23Dec2024 21:15:19.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/9745, l='ServerLevel[world]', x=847.50, y=47.00, z=-650.50]
+[23Dec2024 21:15:19.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/9746, l='ServerLevel[world]', x=844.50, y=47.00, z=-648.50]
+[23Dec2024 21:15:19.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/9747, l='ServerLevel[world]', x=844.50, y=47.00, z=-652.50]

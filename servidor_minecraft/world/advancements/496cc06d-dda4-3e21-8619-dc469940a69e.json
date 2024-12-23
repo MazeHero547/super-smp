@@ -5961,15 +5961,33 @@
     },
     "done": true
   },
+  "netherexp:nether/ghost_mucus": {
+    "criteria": {
+      "has_item": "2024-12-23 21:07:37 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/torch_from_fossil_fuel": {
     "criteria": {
       "has_item": "2024-12-23 21:04:49 +0000"
     },
     "done": true
   },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2024-12-23 21:06:32 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/magma_cake": {
     "criteria": {
       "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:13:48 +0000"
     },
     "done": true
   },
@@ -5985,6 +6003,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:13:48 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/rock_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 21:01:25 +0000"
@@ -5997,9 +6021,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:13:48 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2024-12-23 20:46:12 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:13:48 +0000"
     },
     "done": true
   },
@@ -6009,9 +6045,33 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2024-12-23 21:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2024-12-23 21:13:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2024-12-23 21:11:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2024-12-23 21:11:43 +0000"
     },
     "done": true
   },
@@ -6027,9 +6087,33 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2024-12-23 21:13:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/phasmo_arrow": {
+    "criteria": {
+      "item": "2024-12-23 21:05:29 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2024-12-23 21:08:05 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_withered_abomination": {
     "criteria": {
       "abomination": "2024-12-23 20:56:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/soul_glass": {
+    "criteria": {
+      "item": "2024-12-23 21:05:29 +0000"
     },
     "done": true
   },
@@ -6048,6 +6132,12 @@
   "mynethersdelight:recipes/cooking/burn_roll": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2024-12-23 21:11:43 +0000"
     },
     "done": true
   },
