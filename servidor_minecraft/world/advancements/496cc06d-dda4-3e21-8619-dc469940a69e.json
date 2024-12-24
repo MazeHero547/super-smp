@@ -6457,21 +6457,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate_tiles/indented": {
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_moss_carpet": {
     "criteria": {
-      "has_planks": "2024-12-24 00:13:59 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_tiles/chiseled": {
-    "criteria": {
-      "has_planks": "2024-12-24 00:13:59 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_tiles/slab": {
-    "criteria": {
-      "has_planks": "2024-12-24 00:13:59 +0000"
+      "has_moss_carpet": "2024-12-23 22:57:49 +0000"
     },
     "done": true
   },
@@ -6481,81 +6469,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_moss_carpet": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "has_moss_carpet": "2024-12-23 22:57:49 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/banshee_powder": {
-    "criteria": {
-      "item": "2024-12-24 00:15:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-12-23 23:29:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/amphithere_macuahuitl": {
-    "criteria": {
-      "has_item": "2024-12-24 00:01:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "neapolitan:chimpanzee": "2024-12-23 23:29:01 +0000"
-    },
-    "done": false
-  },
-  "biomancy:recipes/biomancy/decomposing/bamboo": {
-    "criteria": {
-      "has_bamboo": "2024-12-23 23:27:50 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/enter_soul_glass": {
-    "criteria": {
-      "condition": "2024-12-24 00:14:24 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/occult_manor": {
-    "criteria": {
-      "structure": "2024-12-24 00:11:26 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
-    "criteria": {
-      "has_glow_ink_sac": "2024-12-23 23:25:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_tiles/wall": {
-    "criteria": {
-      "has_planks": "2024-12-24 00:13:59 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/gummy/banana": {
-    "criteria": {
-      "has_banana": "2024-12-23 23:28:57 +0000"
+      "cave_book": "2024-12-23 23:00:51 +0000"
     },
     "done": true
   },
@@ -6565,58 +6481,21 @@
     },
     "done": true
   },
-  "netherexp:nether/rekindled_betrayal": {
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
     "criteria": {
-      "used_item": "2024-12-24 00:14:53 +0000"
+      "has_glow_ink_sac": "2024-12-23 23:25:55 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 23:27:50 +0000"
     },
     "done": true
   },
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_bamboo": {
     "criteria": {
       "has_bamboo": "2024-12-23 23:27:50 +0000"
-    },
-    "done": true
-  },
-  "call_of_yucutan:obtain_both_weapons": {
-    "criteria": {
-      "obtain_both_weapons_0": "2024-12-23 23:33:19 +0000",
-      "obtain_both_weapons_1": "2024-12-23 23:39:23 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_tiles/stairs": {
-    "criteria": {
-      "has_planks": "2024-12-24 00:13:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/cryptic_eye": {
-    "criteria": {
-      "cryptic_eye": "2024-12-24 00:03:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/amphithere_arrow": {
-    "criteria": {
-      "has_item": "2024-12-24 00:01:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2024-12-23 23:00:51 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/hp_minecraftian": {
-    "criteria": {
-      "has_item": "2024-12-24 00:12:52 +0000"
     },
     "done": true
   },
@@ -6637,6 +6516,181 @@
       "has_bamboo": "2024-12-23 23:27:50 +0000"
     },
     "done": true
+  },
+  "collectorsreap:recipes/gummy/banana": {
+    "criteria": {
+      "has_banana": "2024-12-23 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-23 23:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "neapolitan:chimpanzee": "2024-12-23 23:29:01 +0000"
+    },
+    "done": false
+  },
+  "call_of_yucutan:obtain_both_weapons": {
+    "criteria": {
+      "obtain_both_weapons_0": "2024-12-23 23:33:19 +0000",
+      "obtain_both_weapons_1": "2024-12-23 23:39:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-23 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-12-24 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-12-24 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2024-12-24 00:03:32 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/occult_manor": {
+    "criteria": {
+      "structure": "2024-12-24 00:11:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/hp_minecraftian": {
+    "criteria": {
+      "has_item": "2024-12-24 00:12:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/indented": {
+    "criteria": {
+      "has_planks": "2024-12-24 00:13:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/chiseled": {
+    "criteria": {
+      "has_planks": "2024-12-24 00:13:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 00:13:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/wall": {
+    "criteria": {
+      "has_planks": "2024-12-24 00:13:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 00:13:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2024-12-24 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rekindled_betrayal": {
+    "criteria": {
+      "used_item": "2024-12-24 00:14:53 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/banshee_powder": {
+    "criteria": {
+      "item": "2024-12-24 00:15:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_marrow": {
+    "criteria": {
+      "has_mob_marrow": "2024-12-24 00:17:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/eldritch_manipulation": {
+    "criteria": {
+      "used_item": "2024-12-24 00:19:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/shotgun_barrel": {
+    "criteria": {
+      "has_item": "2024-12-24 00:19:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/shotgun_fist": {
+    "criteria": {
+      "has_item": "2024-12-24 00:19:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_crimson_roots": {
+    "criteria": {
+      "has_crimson_roots": "2024-12-24 00:20:00 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/crimson_roots": {
+    "criteria": {
+      "has_crimson_roots": "2024-12-24 00:20:00 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/blind_shot": {
+    "criteria": {
+      "shot_arrow": "2024-12-24 03:20:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/valor_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-24 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-24 03:15:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
