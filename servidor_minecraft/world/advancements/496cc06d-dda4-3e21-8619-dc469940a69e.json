@@ -2379,6 +2379,7 @@
       "minecraft:spider": "2024-12-21 02:41:04 +0000",
       "minecraft:creeper": "2024-12-22 16:05:13 +0000",
       "minecraft:evoker": "2024-12-23 00:44:22 +0000",
+      "minecraft:slime": "2024-12-24 22:43:55 +0000",
       "minecraft:zombified_piglin": "2024-12-23 20:46:23 +0000",
       "minecraft:wither_skeleton": "2024-12-23 03:07:14 +0000",
       "minecraft:husk": "2024-12-23 01:46:19 +0000",
@@ -6834,6 +6835,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 22:50:57 +0000"
     },
     "done": true
   },
