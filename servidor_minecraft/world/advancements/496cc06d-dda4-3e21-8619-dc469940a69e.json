@@ -6674,15 +6674,75 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 03:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-24 03:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-24 03:29:15 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/pomegranate_pork_from_hoglin": {
+    "criteria": {
+      "has_raw_hoglin": "2024-12-24 03:28:45 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/blind_shot": {
     "criteria": {
       "shot_arrow": "2024-12-24 03:20:11 +0000"
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-24 03:28:45 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/valor_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2024-12-24 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2024-12-24 03:28:45 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 03:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-24 03:29:15 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-24 03:28:45 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-24 03:28:45 +0000"
     },
     "done": true
   },
