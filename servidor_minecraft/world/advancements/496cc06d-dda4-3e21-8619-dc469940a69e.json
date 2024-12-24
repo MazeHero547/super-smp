@@ -4818,6 +4818,7 @@
       "grindstone": "2024-12-23 01:24:05 +0000",
       "gardeningtable": "2024-12-23 01:30:11 +0000",
       "smoker": "2024-12-23 00:57:48 +0000",
+      "smithingtable": "2024-12-24 22:12:17 +0000",
       "blastfurnace": "2024-12-23 00:58:07 +0000",
       "woodworkingtable": "2024-12-23 01:30:18 +0000",
       "stonecutter": "2024-12-23 01:33:30 +0000"
@@ -6752,6 +6753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_bricks/cracked": {
     "criteria": {
       "has_planks": "2024-12-24 21:47:24 +0000"
@@ -6764,9 +6771,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-24 22:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/the_nether_is_full": {
+    "criteria": {
+      "shot_trident": "2024-12-24 22:12:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_bricks/chiseled": {
     "criteria": {
       "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/netherite_scrap": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-24 22:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
     },
     "done": true
   },
@@ -6776,15 +6837,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/angel_with_a_shotgun": {
+    "criteria": {
+      "shot_trident": "2024-12-24 22:11:42 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_bricks/pillar": {
     "criteria": {
       "has_planks": "2024-12-24 21:47:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_bricks/stairs": {
     "criteria": {
       "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/pump_charge_upgrade_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-24 22:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 22:11:35 +0000"
     },
     "done": true
   },
