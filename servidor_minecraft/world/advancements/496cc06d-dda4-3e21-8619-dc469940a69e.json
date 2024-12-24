@@ -6752,5 +6752,47 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/cracked": {
+    "criteria": {
+      "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/chiseled": {
+    "criteria": {
+      "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/indented": {
+    "criteria": {
+      "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/pillar": {
+    "criteria": {
+      "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/wall": {
+    "criteria": {
+      "has_planks": "2024-12-24 21:47:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
