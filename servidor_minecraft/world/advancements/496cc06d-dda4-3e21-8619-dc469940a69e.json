@@ -7042,5 +7042,23 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-25 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-25 22:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-25 22:50:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
