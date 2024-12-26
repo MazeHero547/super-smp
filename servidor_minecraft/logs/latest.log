@@ -311,3 +311,24 @@
 [26Dec2024 00:41:12.253] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
 [26Dec2024 00:45:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was doomed to fall by Zombie Bruiser
 [26Dec2024 00:46:23.998] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2024-12-26 at /workspaces/super-smp/servidor_minecraft/easy_npc/backup ...
+[26Dec2024 00:59:33.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Alex's Mobs]
+[26Dec2024 01:02:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Amateur Archaeologist]
+[26Dec2024 01:06:04.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=108, z=8} BlockPos{x=31, y=80, z=-27}
+[26Dec2024 01:06:04.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=108, z=8} BlockPos{x=30, y=80, z=-28}
+[26Dec2024 01:06:11.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=108, z=8} BlockPos{x=30, y=80, z=-27}
+[26Dec2024 01:12:12.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Crops of the Wild]
+[26Dec2024 01:15:09.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Monster Hunter]
+[26Dec2024 01:17:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has reached the goal [Exorcism]
+[26Dec2024 01:20:06.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [War Pigs]
+[26Dec2024 01:20:08.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A New Protector...]
+[26Dec2024 01:20:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 01:21:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 01:21:17.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 01:21:42.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to -815.500000, 37.000000, -863.500000]
+[26Dec2024 01:21:42.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[26Dec2024 01:21:42.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 moved too quickly! -10.075657512918156,0.0,0.14530960251527247
+[26Dec2024 01:21:43.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Soul Forge]
+[26Dec2024 01:21:44.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 01:21:47.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 01:23:38.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved wrongly!
+[26Dec2024 01:24:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The broken Nether's warmachine]

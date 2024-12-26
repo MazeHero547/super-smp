@@ -2377,6 +2377,7 @@
       "minecraft:vindicator": "2024-12-23 00:42:10 +0000",
       "minecraft:magma_cube": "2024-12-23 20:56:43 +0000",
       "minecraft:spider": "2024-12-21 02:41:04 +0000",
+      "minecraft:piglin_brute": "2024-12-26 01:19:38 +0000",
       "minecraft:creeper": "2024-12-22 16:05:13 +0000",
       "minecraft:evoker": "2024-12-23 00:44:22 +0000",
       "minecraft:slime": "2024-12-24 22:43:55 +0000",
@@ -7134,6 +7135,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-26 00:01:34 +0000"
@@ -7146,9 +7153,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2024-12-25 23:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
     },
     "done": true
   },
@@ -7170,6 +7189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2024-12-26 00:01:37 +0000"
@@ -7179,6 +7204,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2024-12-26 00:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
     },
     "done": true
   },
@@ -7254,6 +7285,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-26 01:20:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2024-12-25 23:15:12 +0000"
@@ -7290,6 +7327,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-26 01:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-25 23:31:08 +0000"
@@ -7317,6 +7360,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-25 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-26 01:20:08 +0000"
     },
     "done": true
   },
@@ -7380,6 +7429,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_diorite": "2024-12-25 23:31:08 +0000"
@@ -7434,9 +7489,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2024-12-25 23:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
     },
     "done": true
   },
@@ -7449,6 +7516,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-25 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-26 01:21:43 +0000"
     },
     "done": true
   },
@@ -7506,6 +7579,12 @@
     },
     "done": true
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2024-12-26 01:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-26 00:34:01 +0000"
@@ -7527,6 +7606,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-25 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-26 01:20:09 +0000"
     },
     "done": true
   },
