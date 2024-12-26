@@ -310,3 +310,4 @@
 [26Dec2024 00:41:12.253] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
 [26Dec2024 00:41:12.253] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
 [26Dec2024 00:45:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was doomed to fall by Zombie Bruiser
+[26Dec2024 00:46:23.998] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2024-12-26 at /workspaces/super-smp/servidor_minecraft/easy_npc/backup ...
