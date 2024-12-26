@@ -352,3 +352,44 @@
 [26Dec2024 01:46:29.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [26Dec2024 01:46:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [26Dec2024 01:46:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 01:47:19.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[26Dec2024 01:47:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[26Dec2024 01:48:24.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 01:48:31.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 01:49:46.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.210.42.172:51387] logged in with entity id 43018 at (35.315786336961075, 109.0, 12.392556645383214)
+[26Dec2024 01:49:46.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[26Dec2024 01:49:46.384] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[26Dec2024 01:49:46.390] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[26Dec2024 01:49:46.390] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[26Dec2024 01:50:16.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[26Dec2024 01:50:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[26Dec2024 01:50:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Withering Heights]
+[26Dec2024 01:51:51.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.210.42.172:41691] logged in with entity id 43402 at (35.315786336961075, 109.0, 12.392556645383214)
+[26Dec2024 01:51:51.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[26Dec2024 01:51:51.792] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[26Dec2024 01:51:51.793] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[26Dec2024 01:51:51.794] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[26Dec2024 01:51:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Wither You Want It Or Not]
+[26Dec2024 01:52:21.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[26Dec2024 01:52:21.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[26Dec2024 01:53:35.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.210.42.172:48343] logged in with entity id 43610 at (35.315786336961075, 109.0, 12.392556645383214)
+[26Dec2024 01:53:35.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[26Dec2024 01:53:35.516] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[26Dec2024 01:53:35.517] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[26Dec2024 01:53:35.517] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[26Dec2024 01:54:05.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[26Dec2024 01:54:05.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[26Dec2024 01:55:48.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.210.42.172:53059] logged in with entity id 44073 at (35.315786336961075, 109.0, 12.392556645383214)
+[26Dec2024 01:55:48.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[26Dec2024 01:55:48.632] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[26Dec2024 01:55:48.633] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[26Dec2024 01:55:48.635] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[26Dec2024 01:56:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported PhantomThief1210 to MazeHero547]
+[26Dec2024 01:56:18.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[26Dec2024 01:56:18.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[26Dec2024 01:56:18.593] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 01:57:00.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.210.42.172:51745] logged in with entity id 44348 at (34.01967489048611, 109.0, 11.095270129218035)
+[26Dec2024 01:57:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[26Dec2024 01:57:00.636] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[26Dec2024 01:57:00.637] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[26Dec2024 01:57:00.637] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
