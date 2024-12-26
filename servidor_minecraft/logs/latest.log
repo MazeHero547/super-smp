@@ -393,3 +393,17 @@
 [26Dec2024 01:57:00.636] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
 [26Dec2024 01:57:00.637] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
 [26Dec2024 01:57:00.637] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[26Dec2024 01:57:30.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[26Dec2024 01:57:30.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[26Dec2024 01:57:41.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.210.42.172:55295] logged in with entity id 44436 at (34.01967489048611, 109.0, 11.095270129218035)
+[26Dec2024 01:57:41.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[26Dec2024 01:57:41.892] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[26Dec2024 01:57:41.893] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[26Dec2024 01:57:41.893] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[26Dec2024 01:57:58.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported PhantomThief1210 to MazeHero547]
+[26Dec2024 01:58:11.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[26Dec2024 01:58:11.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[26Dec2024 01:58:30.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[26Dec2024 01:58:30.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[26Dec2024 02:06:44.601] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [epic_simply_swords:epic_simply_swords,easy_npc:network,alexscaves:main_channel,legendary_monsters:main_channel,toolleveling:main,sophisticatedbackpacks:channel,sons_of_sins:sons_of_sins,framework:play,crittersandcompanions:main,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,playerrevive:main,call_of_yucutan:call_of_yucutan,creativecore:main,cdmoveset:network_manager,epicfight:network_manager,blueprint:net,geckolib:main,refurbished_furniture:play,citadel:main_channel,storagedrawers:main_channel,securitycraft:securitycraft,iceandfire:main_channel,born_in_chaos_v1:born_in_chaos_v1,curios:main,ravageandcabbage:network,framework:handshake,dragonmounts:network,biomancy:main,sophisticatedcore:channel,patchouli:main,astemirlib:main_channel,alexscaves_torpedoes:alexscaves_torpedoes,alekiships:network] rejected vanilla connections
+[26Dec2024 02:06:44.602] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.210.42.172:57337] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
