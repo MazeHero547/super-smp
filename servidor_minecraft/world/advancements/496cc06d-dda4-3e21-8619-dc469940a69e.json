@@ -8001,9 +8001,21 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2024-12-26 16:55:43 +0000"
+    },
+    "done": true
+  },
   "collectorsreap:recipes/food/baked_portobello_cap_from_campfire_cooking": {
     "criteria": {
       "baked_portobello_cap": "2024-12-26 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2024-12-26 16:56:02 +0000"
     },
     "done": true
   },
@@ -8034,6 +8046,12 @@
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2024-12-26 16:39:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-26 16:56:02 +0000"
     },
     "done": true
   },
@@ -8085,6 +8103,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2024-12-26 16:56:02 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2024-12-26 16:45:54 +0000"
@@ -8115,9 +8139,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-26 16:51:00 +0000"
+    },
+    "done": true
+  },
   "collectorsreap:recipes/food/baked_portobello_cap_from_smoking": {
     "criteria": {
       "baked_portobello_cap": "2024-12-26 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2024-12-26 16:56:02 +0000"
     },
     "done": true
   },
