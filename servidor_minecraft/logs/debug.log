@@ -5152,3 +5152,75 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [26Dec2024 16:22:05.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
 [26Dec2024 16:22:14.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
 [26Dec2024 16:22:14.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[26Dec2024 16:23:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 16:23:55.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 16:24:51.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 16:25:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 16:25:22.182] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[26Dec2024 16:25:28.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:25:28.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:25:41.735] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[26Dec2024 16:25:44.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_oceanographer
+[26Dec2024 16:25:44.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_hunter
+[26Dec2024 16:25:44.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_engineer
+[26Dec2024 16:25:44.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_florist
+[26Dec2024 16:25:44.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_woodworker
+[26Dec2024 16:25:44.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[26Dec2024 16:26:30.853] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[26Dec2024 16:27:04.087] [Worker-Main-10/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/building is being run through DFU (hash bfe7777c872d0a661fb3a707949dad660d6645d311cbc093100149bfa0745998), this will cause launch time delays
+[26Dec2024 16:27:05.591] [Worker-Main-10/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/basement is being run through DFU (hash 345e3da793356688449424b08af8595766f04c7237ab62d2e3f86f6b4f7a324f), this will cause launch time delays
+[26Dec2024 16:27:05.850] [Worker-Main-10/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/gorgon is being run through DFU (hash c50421b376c509e5dbf6b684c09a3de7a2e32e3a96b4f2dfca32fe843f7c5e68), this will cause launch time delays
+[26Dec2024 16:27:22.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[26Dec2024 16:27:22.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[26Dec2024 16:27:22.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[26Dec2024 16:27:22.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[26Dec2024 16:27:22.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[26Dec2024 16:28:14.730] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[26Dec2024 16:28:14.758] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[26Dec2024 16:28:14.799] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_1 is being run through DFU (hash 1743dc95d02dad52d37e440c2939326a0b355e55b3fd8b4ec8abc5d00123ad10), this will cause launch time delays
+[26Dec2024 16:28:15.902] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[26Dec2024 16:28:15.936] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[26Dec2024 16:28:15.973] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[26Dec2024 16:28:16.006] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[26Dec2024 16:28:16.015] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[26Dec2024 16:28:16.061] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[26Dec2024 16:28:16.144] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[26Dec2024 16:28:16.212] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[26Dec2024 16:29:43.947] [Worker-Main-25/DEBUG] [ModernFix/]: Structure illagerinvasion:illusioner_tower/tower_3 is being run through DFU (hash 1640e0b7d0a3d3e79e69bcd4bbc681ef592c9a9511eb35aade5342f0a0623782), this will cause launch time delays
+[26Dec2024 16:29:43.992] [Worker-Main-25/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/illusioner is being run through DFU (hash 9c204c2b4e831cce3cf181e66766885650423ca6adbb5d83d5efac2c7a6f4865), this will cause launch time delays
+[26Dec2024 16:29:43.994] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[26Dec2024 16:29:44.002] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[26Dec2024 16:29:44.005] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[26Dec2024 16:29:44.007] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/alchemist
+[26Dec2024 16:29:44.008] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[26Dec2024 16:30:28.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:30:28.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:31:30.938] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[26Dec2024 16:31:36.843] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.netherexp.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[26Dec2024 16:31:36.853] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[26Dec2024 16:31:42.158] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[26Dec2024 16:31:42.166] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[26Dec2024 16:31:42.166] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[26Dec2024 16:31:42.168] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[26Dec2024 16:31:42.170] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[26Dec2024 16:31:42.172] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[26Dec2024 16:31:42.175] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[26Dec2024 16:31:42.176] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[26Dec2024 16:31:42.177] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[26Dec2024 16:31:42.183] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[26Dec2024 16:31:42.188] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[26Dec2024 16:31:42.194] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
+[26Dec2024 16:31:42.199] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_3
+[26Dec2024 16:31:42.202] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[26Dec2024 16:31:42.204] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_2
+[26Dec2024 16:31:42.205] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_0
+[26Dec2024 16:31:42.206] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[26Dec2024 16:31:42.207] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_1
+[26Dec2024 16:31:42.209] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[26Dec2024 16:31:42.214] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[26Dec2024 16:31:42.219] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[26Dec2024 16:31:42.223] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[26Dec2024 16:31:42.229] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[26Dec2024 16:31:42.235] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[26Dec2024 16:32:39.245] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_1
+[26Dec2024 16:32:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]

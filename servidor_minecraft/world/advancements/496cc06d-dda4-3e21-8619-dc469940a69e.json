@@ -7994,5 +7994,41 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/baked_portobello_cap_from_campfire_cooking": {
+    "criteria": {
+      "baked_portobello_cap": "2024-12-26 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_mushrooms": {
+    "criteria": {
+      "has_mushrooms": "2024-12-26 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/gummy/strawberry": {
+    "criteria": {
+      "has_strawberries": "2024-12-26 16:27:34 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/baked_portobello_cap": {
+    "criteria": {
+      "baked_portobello_cap": "2024-12-26 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/strawberry_jam_bun": {
+    "criteria": {
+      "has_strawberries": "2024-12-26 16:27:34 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/baked_portobello_cap_from_smoking": {
+    "criteria": {
+      "baked_portobello_cap": "2024-12-26 16:24:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
