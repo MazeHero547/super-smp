@@ -7313,6 +7313,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radgill_bucket": {
+    "criteria": {
+      "radgill_bucket": "2024-12-26 00:24:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-25 23:18:17 +0000"
