@@ -8001,6 +8001,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-26 17:20:01 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_harbinger": {
     "criteria": {
       "theharbinger": "2024-12-26 16:55:43 +0000"
@@ -8016,6 +8022,12 @@
   "netherexp:recipes/polished_basalt/slab": {
     "criteria": {
       "has_item": "2024-12-26 16:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 17:12:55 +0000"
     },
     "done": true
   },
@@ -8061,9 +8073,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 17:12:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2024-12-26 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 17:12:55 +0000"
     },
     "done": true
   },
@@ -8085,9 +8109,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-26 17:20:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2024-12-26 16:30:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-12-26 17:20:06 +0000"
     },
     "done": true
   },
@@ -8100,6 +8136,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2024-12-26 16:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 17:12:55 +0000"
     },
     "done": true
   },
@@ -8139,9 +8181,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-12-26 17:20:06 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/phantom_membrane": {
     "criteria": {
       "has_phantom_membrane": "2024-12-26 16:38:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-26 17:20:06 +0000"
     },
     "done": true
   },
