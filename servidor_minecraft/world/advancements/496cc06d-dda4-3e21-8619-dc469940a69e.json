@@ -8055,6 +8055,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/piglin_head": {
+    "criteria": {
+      "has_piglin_head": "2024-12-26 17:03:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2024-12-26 16:30:48 +0000"
