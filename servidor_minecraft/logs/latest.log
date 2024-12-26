@@ -746,3 +746,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [26Dec2024 16:24:51.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [26Dec2024 16:25:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [26Dec2024 16:32:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[26Dec2024 16:33:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 16:34:56.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/4247, l='ServerLevel[world]', x=-503.50, y=54.00, z=-1062.50]
+[26Dec2024 16:35:40.535] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[26Dec2024 16:35:45.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Mine? Mine? Mine?]
+[26Dec2024 16:39:08.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[26Dec2024 16:39:11.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 16:39:12.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 16:39:39.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Surfer Rosa]

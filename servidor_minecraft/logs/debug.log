@@ -5224,3 +5224,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [26Dec2024 16:31:42.235] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
 [26Dec2024 16:32:39.245] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_1
 [26Dec2024 16:32:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[26Dec2024 16:33:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 16:34:45.161] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[26Dec2024 16:34:56.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/4247, l='ServerLevel[world]', x=-503.50, y=54.00, z=-1062.50]
+[26Dec2024 16:35:28.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:35:28.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:35:40.535] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[26Dec2024 16:35:45.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Mine? Mine? Mine?]
+[26Dec2024 16:36:30.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[26Dec2024 16:36:30.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[26Dec2024 16:36:30.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[26Dec2024 16:36:30.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[26Dec2024 16:36:30.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[26Dec2024 16:36:30.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[26Dec2024 16:36:30.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[26Dec2024 16:36:30.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[26Dec2024 16:36:30.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[26Dec2024 16:36:30.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[26Dec2024 16:36:30.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[26Dec2024 16:37:27.909] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[26Dec2024 16:37:27.968] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[26Dec2024 16:37:28.016] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[26Dec2024 16:39:08.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[26Dec2024 16:39:11.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 16:39:12.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 16:39:39.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Surfer Rosa]
+[26Dec2024 16:39:39.785] [Worker-Main-25/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_4 is being run through DFU (hash 9a325c1c61a4e7574103858486b5a9c17628c6a645d8ca996252f4c80c38ee3d), this will cause launch time delays
+[26Dec2024 16:40:28.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:40:28.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:40:51.227] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/sorcerer
+[26Dec2024 16:42:40.284] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
