@@ -5163,6 +5163,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-12-26 17:47:45 +0000",
+      "onion": "2024-12-26 17:47:38 +0000",
+      "tomato": "2024-12-26 17:41:08 +0000",
+      "rice": "2024-12-26 17:47:26 +0000",
       "potato": "2024-12-23 01:20:33 +0000",
       "wheat": "2024-12-23 01:21:03 +0000",
       "carrot": "2024-12-23 01:20:23 +0000"
@@ -8049,6 +8053,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 17:46:36 +0000"
+    },
+    "done": true
+  },
   "collectorsreap:recipes/gummy/strawberry": {
     "criteria": {
       "has_strawberries": "2024-12-26 16:27:34 +0000"
@@ -8058,6 +8068,12 @@
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2024-12-26 16:39:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-26 17:46:36 +0000"
     },
     "done": true
   },
@@ -8145,9 +8161,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-12-26 17:47:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
     "criteria": {
       "has_slime_block": "2024-12-26 16:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-26 17:50:45 +0000"
     },
     "done": true
   },
@@ -8205,9 +8233,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-26 17:46:36 +0000"
+    },
+    "done": true
+  },
   "collectorsreap:recipes/food/baked_portobello_cap_from_smoking": {
     "criteria": {
       "baked_portobello_cap": "2024-12-26 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-26 17:46:36 +0000"
     },
     "done": true
   },

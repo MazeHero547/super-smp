@@ -5415,3 +5415,63 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [26Dec2024 17:40:48.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 17:40:49.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [26Dec2024 17:41:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 17:45:29.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 17:45:48.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 17:45:48.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 17:46:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 17:47:58.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[26Dec2024 17:47:58.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[26Dec2024 17:49:01.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1025, y=65, z=64} BlockPos{x=1025, y=63, z=65}
+[26Dec2024 17:49:08.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1027, y=65, z=71} BlockPos{x=1026, y=64, z=70}
+[26Dec2024 17:50:48.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 17:50:48.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 17:53:27.174] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:frosted_prison took 4783 ms
+[26Dec2024 17:53:27.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4751ms or 95 ticks behind
+[26Dec2024 17:53:36.448] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[26Dec2024 17:53:36.677] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[26Dec2024 17:53:36.697] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[26Dec2024 17:53:36.714] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[26Dec2024 17:53:36.746] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[26Dec2024 17:53:36.761] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[26Dec2024 17:53:36.793] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[26Dec2024 17:53:36.941] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[26Dec2024 17:53:37.767] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[26Dec2024 17:53:39.905] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[26Dec2024 17:53:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to 3840.500000, 80.000000, 4048.500000]
+[26Dec2024 17:53:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Frosted Prison]
+[26Dec2024 17:53:57.632] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[26Dec2024 17:53:58.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16302ms or 326 ticks behind
+[26Dec2024 17:53:59.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 17:54:02.466] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[26Dec2024 17:54:02.539] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[26Dec2024 17:54:02.557] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[26Dec2024 17:54:02.565] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[26Dec2024 17:54:02.574] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[26Dec2024 17:54:02.587] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[26Dec2024 17:54:02.596] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[26Dec2024 17:54:02.611] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[26Dec2024 17:54:02.764] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[26Dec2024 17:54:02.789] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[26Dec2024 17:54:02.799] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[26Dec2024 17:54:02.808] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[26Dec2024 17:54:02.850] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[26Dec2024 17:54:02.920] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[26Dec2024 17:54:02.947] [Worker-Main-86/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_2 is being run through DFU (hash 674404d5ca3ef8cef61cda2ad120a98b31f3e67d6db899b5f9064d011d9ae5d8), this will cause launch time delays
+[26Dec2024 17:54:03.415] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[26Dec2024 17:54:03.478] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[26Dec2024 17:54:03.583] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[26Dec2024 17:54:03.737] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[26Dec2024 17:54:03.868] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[26Dec2024 17:54:04.082] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[26Dec2024 17:54:04.136] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[26Dec2024 17:54:04.302] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[26Dec2024 17:54:04.441] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[26Dec2024 17:54:04.468] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[26Dec2024 17:54:04.539] [Worker-Main-86/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2 is being run through DFU (hash 40b15fe9c80a15adfc4f38946177cfa77d41454b5c5095aa4b33741140c3987c), this will cause launch time delays
+[26Dec2024 17:54:05.069] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[26Dec2024 17:54:05.140] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[26Dec2024 17:54:09.954] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[26Dec2024 17:54:10.423] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[26Dec2024 17:54:10.724] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[26Dec2024 17:54:35.346] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[26Dec2024 17:54:35.352] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom

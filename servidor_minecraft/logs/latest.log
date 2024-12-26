@@ -814,3 +814,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [26Dec2024 17:34:41.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [26Dec2024 17:40:49.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [26Dec2024 17:41:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 17:45:29.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[26Dec2024 17:46:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[26Dec2024 17:49:01.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1025, y=65, z=64} BlockPos{x=1025, y=63, z=65}
+[26Dec2024 17:49:08.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1027, y=65, z=71} BlockPos{x=1026, y=64, z=70}
+[26Dec2024 17:53:27.174] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:frosted_prison took 4783 ms
+[26Dec2024 17:53:27.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4751ms or 95 ticks behind
+[26Dec2024 17:53:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to 3840.500000, 80.000000, 4048.500000]
+[26Dec2024 17:53:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Frosted Prison]
+[26Dec2024 17:53:58.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16302ms or 326 ticks behind
+[26Dec2024 17:53:59.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
