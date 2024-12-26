@@ -332,3 +332,14 @@
 [26Dec2024 01:21:47.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [26Dec2024 01:23:38.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved wrongly!
 [26Dec2024 01:24:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The broken Nether's warmachine]
+[26Dec2024 01:26:40.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26Dec2024 01:29:17.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 burned to death
+[26Dec2024 01:33:32.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[26Dec2024 01:33:32.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[26Dec2024 01:33:45.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.210.42.172:39757] logged in with entity id 39484 at (35.07413975854493, 109.0, 12.024187447163412)
+[26Dec2024 01:33:45.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[26Dec2024 01:33:45.240] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[26Dec2024 01:33:45.244] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[26Dec2024 01:33:45.244] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[26Dec2024 01:35:02.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15733ms or 314 ticks behind
+[26Dec2024 01:35:40.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
