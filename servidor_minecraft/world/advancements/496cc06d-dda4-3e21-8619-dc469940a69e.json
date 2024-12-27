@@ -8581,6 +8581,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/dragon_head": {
+    "criteria": {
+      "has_dragon_head": "2024-12-27 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-12-27 19:49:45 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_aviary": {
     "criteria": {
       "location0": "2024-12-27 19:36:43 +0000"

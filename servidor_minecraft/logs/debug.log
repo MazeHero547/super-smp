@@ -5249,3 +5249,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [27Dec2024 19:44:02.606] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
 [27Dec2024 19:44:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [27Dec2024 19:44:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 19:45:01.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 19:45:35.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:45:35.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:48:12.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[27Dec2024 19:48:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Skeleton
+[27Dec2024 19:49:25.315] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel5 is being run through DFU (hash f760e92d1b0e922087b2c2ce77e9eae21a9ddc080e2b08cc374f5daf614c9cd7), this will cause launch time delays
+[27Dec2024 19:49:26.339] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel14 is being run through DFU (hash f6b07a6e95f8f46457e747f727872725582756da5910b39a6430cc679038b856), this will cause launch time delays
+[27Dec2024 19:49:27.072] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel6 is being run through DFU (hash ebd80a096c5b13e6fea284e961b1c97b3c24c782e536609c1a0f14c8b22a0638), this will cause launch time delays
+[27Dec2024 19:49:27.296] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel15 is being run through DFU (hash bdd0b478476e695a49c18804e08699e09c5a557e27d1ee1e93b1bd7ec4aa8821), this will cause launch time delays
+[27Dec2024 19:49:27.434] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel4 is being run through DFU (hash 0f8323415d9b378538f4bacd8cbc6e34b9030b7fbbc4baaf48d45a63d1a8feca), this will cause launch time delays
+[27Dec2024 19:49:27.647] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel13 is being run through DFU (hash e856a6d0abab7d6d830df9a7644e308eddfe7d4cf7c766d8819e14e09bd6927a), this will cause launch time delays
+[27Dec2024 19:49:27.865] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel2 is being run through DFU (hash c892f45c824ecd31d15de9a086ea330c78362b864db3ad23a92a573a796e9262), this will cause launch time delays
+[27Dec2024 19:49:27.968] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel11 is being run through DFU (hash 0f9681aab747a7569192298ca6c9492f1d54218c57b3cefc48e7e935f886e613), this will cause launch time delays
+[27Dec2024 19:49:28.090] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel8 is being run through DFU (hash cf43aea391acc6ba5266ac8ce280b5638e147fd494e65c6d85a5540919c1acb8), this will cause launch time delays
+[27Dec2024 19:49:28.204] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel17 is being run through DFU (hash f908c8db32ad0f01a3083dc2d794bc7ac1adf4587e53238bdcfeca892c64aeec), this will cause launch time delays
+[27Dec2024 19:49:28.283] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel1 is being run through DFU (hash 6949334b931aacbfc072e9f6b0a1fd8bc9d326b8114aed2538a08e8923cd8558), this will cause launch time delays
+[27Dec2024 19:49:28.322] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel10 is being run through DFU (hash d05333de3ddcf2ec40ed4fe2601c3b7ac41247543e75408d04615df083ffbe55), this will cause launch time delays
+[27Dec2024 19:49:28.384] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel3 is being run through DFU (hash 2cd506227306fabe9de492bb88f74b5eca5038727e05795fe6b6bb34dbec65fa), this will cause launch time delays
+[27Dec2024 19:49:28.473] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel12 is being run through DFU (hash a269ff037ff376e2e8529651c5c0bae1a4903d6322e094a0d92f8d8565a03e7f), this will cause launch time delays
+[27Dec2024 19:49:28.640] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel9 is being run through DFU (hash 06f4088a09a33a9fda1450a9bd389a3a00acebc44ee1e37fa0cdb7639705d6f4), this will cause launch time delays
+[27Dec2024 19:49:28.743] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel18 is being run through DFU (hash f6bb6d4712918e3f766e2b28ce8eefa35f995e3d102ac7e1723ff02e09a678be), this will cause launch time delays
+[27Dec2024 19:49:29.034] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel7 is being run through DFU (hash b405ea6bdf6d9a186c2cc9718fe508d8ed8d59e3785428407f46a50c92e86d28), this will cause launch time delays
+[27Dec2024 19:49:29.170] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel16 is being run through DFU (hash c3a0075667cc96a9e603b4dbfb8651446d631e6db023453b6a977f9e6bcad14c), this will cause launch time delays
+[27Dec2024 19:49:29.367] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:ruined_citadel took 4080 ms
+[27Dec2024 19:49:29.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4080ms or 81 ticks behind
+[27Dec2024 19:49:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to -479.500000, 65.755537, 992.500000]
+[27Dec2024 19:49:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Ruined Citadel]
+[27Dec2024 19:50:08.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 19:50:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 19:50:39.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:50:39.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

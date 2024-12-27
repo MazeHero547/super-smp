@@ -763,3 +763,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [27Dec2024 19:43:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [27Dec2024 19:44:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [27Dec2024 19:44:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 19:45:01.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 19:48:12.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[27Dec2024 19:48:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Skeleton
+[27Dec2024 19:49:29.367] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:ruined_citadel took 4080 ms
+[27Dec2024 19:49:29.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4080ms or 81 ticks behind
+[27Dec2024 19:49:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to -479.500000, 65.755537, 992.500000]
+[27Dec2024 19:49:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Ruined Citadel]
+[27Dec2024 19:50:08.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 19:50:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
