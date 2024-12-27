@@ -5289,3 +5289,188 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [27Dec2024 20:00:39.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 20:00:39.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Dec2024 20:01:58.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Weird Fishes/Arpeggi]
+[27Dec2024 20:04:59.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[27Dec2024 20:04:59.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_2
+[27Dec2024 20:04:59.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_3_stairs
+[27Dec2024 20:04:59.319] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_0
+[27Dec2024 20:04:59.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_1
+[27Dec2024 20:04:59.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_top_0
+[27Dec2024 20:04:59.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/iron_golem_normal_0
+[27Dec2024 20:04:59.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_0
+[27Dec2024 20:04:59.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_1
+[27Dec2024 20:04:59.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_0
+[27Dec2024 20:04:59.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_3
+[27Dec2024 20:04:59.904] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[27Dec2024 20:05:00.057] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[27Dec2024 20:05:01.717] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[27Dec2024 20:05:02.382] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[27Dec2024 20:05:02.652] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[27Dec2024 20:05:02.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
+[27Dec2024 20:05:20.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
+[27Dec2024 20:05:24.579] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[27Dec2024 20:05:24.646] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[27Dec2024 20:05:24.680] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[27Dec2024 20:05:24.731] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[27Dec2024 20:05:24.788] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[27Dec2024 20:05:24.803] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[27Dec2024 20:05:24.818] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[27Dec2024 20:05:24.838] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[27Dec2024 20:05:24.862] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[27Dec2024 20:05:24.868] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[27Dec2024 20:05:24.870] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[27Dec2024 20:05:24.913] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[27Dec2024 20:05:24.969] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[27Dec2024 20:05:25.030] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[27Dec2024 20:05:25.178] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[27Dec2024 20:05:41.364] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_2
+[27Dec2024 20:05:46.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 20:05:46.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 20:05:56.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[27Dec2024 20:05:56.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/inquisitor
+[27Dec2024 20:05:56.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[27Dec2024 20:05:57.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_engineer
+[27Dec2024 20:05:57.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_oceanographer
+[27Dec2024 20:05:57.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_hunter
+[27Dec2024 20:05:57.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_woodworker
+[27Dec2024 20:05:57.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_florist
+[27Dec2024 20:05:57.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[27Dec2024 20:06:05.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 20:06:39.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[27Dec2024 20:06:39.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[27Dec2024 20:06:39.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[27Dec2024 20:06:39.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[27Dec2024 20:06:39.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[27Dec2024 20:06:39.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[27Dec2024 20:06:39.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_1
+[27Dec2024 20:06:39.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
+[27Dec2024 20:06:39.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[27Dec2024 20:06:39.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[27Dec2024 20:06:39.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/necromancer
+[27Dec2024 20:06:39.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[27Dec2024 20:06:39.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/alchemist
+[27Dec2024 20:06:39.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[27Dec2024 20:06:39.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[27Dec2024 20:06:39.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[27Dec2024 20:06:39.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[27Dec2024 20:06:39.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_3
+[27Dec2024 20:06:39.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[27Dec2024 20:06:39.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[27Dec2024 20:06:39.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[27Dec2024 20:06:39.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[27Dec2024 20:06:39.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[27Dec2024 20:06:39.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[27Dec2024 20:07:18.999] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:cursed_pyramid took 625 ms
+[27Dec2024 20:08:38.005] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[27Dec2024 20:08:38.028] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[27Dec2024 20:08:41.368] [Worker-Main-19/DEBUG] [ModernFix/]: Structure morevillagers:village/desert/desert_oceanographer is being run through DFU (hash 91fd01fad1c51a2d71b6696779d569e0a26ea435627c36e426e62bbc634489e6), this will cause launch time delays
+[27Dec2024 20:08:41.868] [Worker-Main-19/DEBUG] [ModernFix/]: Structure morevillagers:village/desert/desert_florist is being run through DFU (hash 5fd088a6e5ec7193305e38bb4ae26a1f11275c9b653244f8b846ab8669e10c2b), this will cause launch time delays
+[27Dec2024 20:08:41.900] [Worker-Main-19/DEBUG] [ModernFix/]: Structure morevillagers:village/desert/desert_woodworker is being run through DFU (hash d3be27b6662d6b9aa70d165d8cb4d9d4514d414789f5f0e39683dd6b50175022), this will cause launch time delays
+[27Dec2024 20:08:42.033] [Worker-Main-19/DEBUG] [ModernFix/]: Structure iceandfire:village/desert_scriber_1 is being run through DFU (hash a4c7b209c6b9843cf1ae3380d95e5861ca6debff009fb170d0fdaeb52fa22a18), this will cause launch time delays
+[27Dec2024 20:08:42.228] [Worker-Main-19/DEBUG] [ModernFix/]: Structure morevillagers:village/desert/desert_hunter is being run through DFU (hash e5a2740199d4230c38ed0b9cdf04131c2c78a634416bbdcef5bc38d4a91f252a), this will cause launch time delays
+[27Dec2024 20:08:47.731] [Worker-Main-19/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_0 is being run through DFU (hash e1a904a1cd9c7c6658b1c67d6cbd765acb7a5e081d03082d12803e73d2ca991a), this will cause launch time delays
+[27Dec2024 20:08:51.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to -1135.500000, 80.000000, 1408.500000]
+[27Dec2024 20:08:51.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14165ms or 283 ticks behind
+[27Dec2024 20:08:53.351] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[27Dec2024 20:08:53.425] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[27Dec2024 20:08:53.477] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[27Dec2024 20:08:53.539] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[27Dec2024 20:08:53.567] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[27Dec2024 20:08:57.182] [Worker-Main-19/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_3 is being run through DFU (hash daab2f2272e9667fcfa3a6e8dcb750002303e7a4b325778c2b546ef222e1d979), this will cause launch time delays
+[27Dec2024 20:09:16.630] [Worker-Main-19/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_7 is being run through DFU (hash 90275fd55e2becb0f897c72ff40bb853e55b275449e20a9ce0a841d9a4bdaa31), this will cause launch time delays
+[27Dec2024 20:09:28.791] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/8363, l='ServerLevel[world]', x=-1154.50, y=61.00, z=1415.50]
+[27Dec2024 20:09:45.593] [Worker-Main-19/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_1 is being run through DFU (hash 8ac6538d173a17d0a80b37133fcb17e389d63163ccffbcbee5887b87c31f2e62), this will cause launch time delays
+[27Dec2024 20:09:45.751] [Worker-Main-19/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_5 is being run through DFU (hash b7a316c6c2d948e115fcd28abe20d991a9f97cb9153390402b2d35746afbb3da), this will cause launch time delays
+[27Dec2024 20:09:48.977] [Worker-Main-19/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_11 is being run through DFU (hash 07774ed7c65a43e4f0dc06ace45dffa8a7d3d2cefa527668762dcaa408d52698), this will cause launch time delays
+[27Dec2024 20:09:56.316] [Worker-Main-19/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_6 is being run through DFU (hash 50f12c7b4093b127df7bb00a26b2a8ba4a8b9cdc63d610ebb07518f8f6f31f8c), this will cause launch time delays
+[27Dec2024 20:10:00.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Cursed Pyramid]
+[27Dec2024 20:10:16.490] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[27Dec2024 20:10:23.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 20:10:27.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/8813, l='ServerLevel[world]', x=-995.50, y=57.00, z=1331.50]
+[27Dec2024 20:10:34.040] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/8832, l='ServerLevel[world]', x=-993.50, y=57.00, z=1333.50]
+[27Dec2024 20:10:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Desert Swimmers]
+[27Dec2024 20:10:59.134] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[27Dec2024 20:10:59.233] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[27Dec2024 20:10:59.235] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[27Dec2024 20:10:59.243] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[27Dec2024 20:10:59.259] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[27Dec2024 20:10:59.267] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[27Dec2024 20:10:59.316] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[27Dec2024 20:10:59.333] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[27Dec2024 20:10:59.407] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[27Dec2024 20:10:59.417] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[27Dec2024 20:10:59.513] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[27Dec2024 20:10:59.536] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[27Dec2024 20:10:59.554] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[27Dec2024 20:10:59.662] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[27Dec2024 20:10:59.685] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[27Dec2024 20:10:59.689] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[27Dec2024 20:10:59.698] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[27Dec2024 20:10:59.709] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[27Dec2024 20:10:59.815] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[27Dec2024 20:10:59.879] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[27Dec2024 20:10:59.893] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[27Dec2024 20:10:59.895] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[27Dec2024 20:10:59.896] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[27Dec2024 20:10:59.897] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[27Dec2024 20:10:59.899] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[27Dec2024 20:10:59.900] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[27Dec2024 20:10:59.902] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[27Dec2024 20:11:00.006] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[27Dec2024 20:11:00.022] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[27Dec2024 20:11:00.030] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[27Dec2024 20:11:00.033] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[27Dec2024 20:11:00.107] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[27Dec2024 20:11:00.180] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[27Dec2024 20:11:00.251] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[27Dec2024 20:11:00.287] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[27Dec2024 20:11:00.325] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[27Dec2024 20:11:00.365] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[27Dec2024 20:11:00.372] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[27Dec2024 20:11:00.374] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[27Dec2024 20:11:00.375] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[27Dec2024 20:11:00.375] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[27Dec2024 20:11:00.376] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[27Dec2024 20:11:00.377] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[27Dec2024 20:11:00.378] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[27Dec2024 20:11:00.378] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[27Dec2024 20:11:00.379] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[27Dec2024 20:11:00.380] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[27Dec2024 20:11:00.380] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[27Dec2024 20:11:00.382] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.385] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[27Dec2024 20:11:00.386] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.399] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[27Dec2024 20:11:00.406] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[27Dec2024 20:11:00.431] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.432] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.460] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.460] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 20:11:01.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 20:11:14.381] [Worker-Main-14/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_9 is being run through DFU (hash 7d1d8d3e7497c1017234745b03a7d5b9fc0624076feaff7a36c3b160e0e9e650), this will cause launch time delays
+[27Dec2024 20:11:14.730] [Worker-Main-14/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_10 is being run through DFU (hash 84ec623b973238115e393ae0890b6f142519debd488c41f5718ffec4f914ddeb), this will cause launch time delays
+[27Dec2024 20:11:15.025] [Worker-Main-14/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_8 is being run through DFU (hash 6632ecebccf60d8d638fbd13152c83bb53bacb154d33e8ef665cd17db122f497), this will cause launch time delays
+[27Dec2024 20:11:18.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9246, l='ServerLevel[world]', x=-994.50, y=57.00, z=1333.50]
+[27Dec2024 20:11:25.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9269, l='ServerLevel[world]', x=-995.50, y=57.00, z=1332.50]
+[27Dec2024 20:11:27.256] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9300, l='ServerLevel[world]', x=-978.50, y=62.00, z=1349.50]
+[27Dec2024 20:11:29.044] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9341, l='ServerLevel[world]', x=-956.50, y=46.00, z=1316.50]
+[27Dec2024 20:11:32.343] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9386, l='ServerLevel[world]', x=-1041.50, y=49.00, z=1252.50]
+[27Dec2024 20:11:39.028] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9452, l='ServerLevel[world]', x=-1068.50, y=49.00, z=1259.50]
+[27Dec2024 20:11:42.452] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9491, l='ServerLevel[world]', x=-1033.50, y=62.00, z=1269.50]
+[27Dec2024 20:11:46.474] [Worker-Main-14/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_2 is being run through DFU (hash 3719ec6fd67641e3f2ca31e0741ab7626e3129caeee740e91c32eb6c150625ca), this will cause launch time delays
+[27Dec2024 20:11:46.913] [Worker-Main-14/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_4 is being run through DFU (hash 6fefb53d385f8b325ca8762da5268d7313db81a1abb608a4288410dd11f6af23), this will cause launch time delays
+[27Dec2024 20:11:48.043] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9554, l='ServerLevel[world]', x=-1054.50, y=49.00, z=1251.50]
+[27Dec2024 20:12:32.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10049, l='ServerLevel[world]', x=-1158.50, y=48.00, z=1328.50]
+[27Dec2024 20:13:24.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -0.20130570375454226,0.0,-10.23579795293631
+[27Dec2024 20:13:24.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[27Dec2024 20:13:41.384] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10505, l='ServerLevel[world]', x=-1068.50, y=49.00, z=1257.50]
+[27Dec2024 20:13:52.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10567, l='ServerLevel[world]', x=-1055.50, y=49.00, z=1251.50]
+[27Dec2024 20:13:53.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10579, l='ServerLevel[world]', x=-1034.50, y=62.00, z=1268.50]
+[27Dec2024 20:13:56.596] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10177, l='ServerLevel[world]', x=-895.69, y=64.01, z=1446.85]
+[27Dec2024 20:13:56.598] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10178, l='ServerLevel[world]', x=-895.74, y=64.01, z=1450.11]
+[27Dec2024 20:13:56.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10179, l='ServerLevel[world]', x=-895.85, y=64.00, z=1444.60]
+[27Dec2024 20:13:56.602] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10180, l='ServerLevel[world]', x=-895.91, y=64.04, z=1442.29]
+[27Dec2024 20:14:08.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:14:12.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:14:12.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:14:36.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10906, l='ServerLevel[world]', x=-1034.50, y=62.00, z=1269.50]

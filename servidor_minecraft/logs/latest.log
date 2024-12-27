@@ -777,3 +777,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [27Dec2024 19:59:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
 [27Dec2024 19:59:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [27Dec2024 20:01:58.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Weird Fishes/Arpeggi]
+[27Dec2024 20:05:02.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
+[27Dec2024 20:05:20.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
+[27Dec2024 20:06:05.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 20:07:18.999] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:cursed_pyramid took 625 ms
+[27Dec2024 20:08:51.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to -1135.500000, 80.000000, 1408.500000]
+[27Dec2024 20:08:51.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14165ms or 283 ticks behind
+[27Dec2024 20:09:28.791] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/8363, l='ServerLevel[world]', x=-1154.50, y=61.00, z=1415.50]
+[27Dec2024 20:10:00.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Cursed Pyramid]
+[27Dec2024 20:10:23.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 20:10:27.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/8813, l='ServerLevel[world]', x=-995.50, y=57.00, z=1331.50]
+[27Dec2024 20:10:34.040] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/8832, l='ServerLevel[world]', x=-993.50, y=57.00, z=1333.50]
+[27Dec2024 20:10:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Desert Swimmers]
+[27Dec2024 20:11:00.382] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.386] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.431] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.432] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.460] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:00.460] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Dec2024 20:11:18.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9246, l='ServerLevel[world]', x=-994.50, y=57.00, z=1333.50]
+[27Dec2024 20:11:25.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9269, l='ServerLevel[world]', x=-995.50, y=57.00, z=1332.50]
+[27Dec2024 20:11:27.256] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9300, l='ServerLevel[world]', x=-978.50, y=62.00, z=1349.50]
+[27Dec2024 20:11:29.044] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9341, l='ServerLevel[world]', x=-956.50, y=46.00, z=1316.50]
+[27Dec2024 20:11:32.343] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9386, l='ServerLevel[world]', x=-1041.50, y=49.00, z=1252.50]
+[27Dec2024 20:11:39.028] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9452, l='ServerLevel[world]', x=-1068.50, y=49.00, z=1259.50]
+[27Dec2024 20:11:42.452] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9491, l='ServerLevel[world]', x=-1033.50, y=62.00, z=1269.50]
+[27Dec2024 20:11:48.043] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9554, l='ServerLevel[world]', x=-1054.50, y=49.00, z=1251.50]
+[27Dec2024 20:12:32.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10049, l='ServerLevel[world]', x=-1158.50, y=48.00, z=1328.50]
+[27Dec2024 20:13:24.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -0.20130570375454226,0.0,-10.23579795293631
+[27Dec2024 20:13:24.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[27Dec2024 20:13:41.384] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10505, l='ServerLevel[world]', x=-1068.50, y=49.00, z=1257.50]
+[27Dec2024 20:13:52.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10567, l='ServerLevel[world]', x=-1055.50, y=49.00, z=1251.50]
+[27Dec2024 20:13:53.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10579, l='ServerLevel[world]', x=-1034.50, y=62.00, z=1268.50]
+[27Dec2024 20:13:56.596] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10177, l='ServerLevel[world]', x=-895.69, y=64.01, z=1446.85]
+[27Dec2024 20:13:56.598] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10178, l='ServerLevel[world]', x=-895.74, y=64.01, z=1450.11]
+[27Dec2024 20:13:56.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10179, l='ServerLevel[world]', x=-895.85, y=64.00, z=1444.60]
+[27Dec2024 20:13:56.602] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10180, l='ServerLevel[world]', x=-895.91, y=64.04, z=1442.29]
+[27Dec2024 20:14:08.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:14:12.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:14:12.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:14:36.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10906, l='ServerLevel[world]', x=-1034.50, y=62.00, z=1269.50]

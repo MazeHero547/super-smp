@@ -282,6 +282,7 @@
       "minecraft:forest": "2024-12-21 02:11:32 +0000",
       "minecraft:lush_caves": "2024-12-23 22:57:02 +0000",
       "minecraft:frozen_ocean": "2024-12-23 01:43:33 +0000",
+      "minecraft:desert": "2024-12-27 20:08:52 +0000",
       "minecraft:jungle": "2024-12-23 21:38:22 +0000",
       "minecraft:ocean": "2024-12-27 17:35:38 +0000",
       "minecraft:snowy_beach": "2024-12-23 01:38:22 +0000",
@@ -8600,6 +8601,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2024-12-27 20:01:58 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2024-12-27 19:28:36 +0000"
@@ -8618,6 +8625,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/cosmic_cod": {
+    "criteria": {
+      "has_cosmic_cod": "2024-12-27 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-27 20:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-12-27 19:34:05 +0000"
@@ -8630,9 +8649,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 20:10:56 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2024-12-27 19:55:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 20:10:56 +0000"
     },
     "done": true
   },
@@ -8672,9 +8703,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 20:10:56 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/cod": {
     "criteria": {
       "has_cod": "2024-12-27 19:40:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 20:10:56 +0000"
     },
     "done": true
   },
@@ -8723,6 +8766,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-27 19:40:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-12-27 20:10:00 +0000"
     },
     "done": true
   },
