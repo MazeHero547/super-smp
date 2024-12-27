@@ -2390,12 +2390,14 @@
       "minecraft:slime": "2024-12-24 22:43:55 +0000",
       "minecraft:phantom": "2024-12-26 16:38:10 +0000",
       "minecraft:zombified_piglin": "2024-12-23 20:46:23 +0000",
+      "minecraft:witch": "2024-12-27 17:28:18 +0000",
       "minecraft:wither_skeleton": "2024-12-23 03:07:14 +0000",
       "minecraft:husk": "2024-12-23 01:46:19 +0000",
       "minecraft:cave_spider": "2024-12-21 02:35:28 +0000",
       "minecraft:piglin": "2024-12-26 00:34:07 +0000",
       "minecraft:stray": "2024-12-21 02:35:13 +0000",
       "minecraft:enderman": "2024-12-25 23:33:18 +0000",
+      "minecraft:vex": "2024-12-27 17:26:57 +0000",
       "minecraft:zombie": "2024-12-21 02:34:32 +0000",
       "minecraft:zombie_villager": "2024-12-23 00:16:55 +0000"
     },
@@ -8378,9 +8380,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-27 17:27:46 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-12-27 17:18:25 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2024-12-27 16:57:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2024-12-27 17:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-27 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2024-12-27 17:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2024-12-27 17:16:49 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-27 17:17:51 +0000"
     },
     "done": true
   },
@@ -8396,9 +8452,27 @@
     },
     "done": true
   },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2024-12-27 17:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-27 17:28:14 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/golden_carrot": {
     "criteria": {
       "has_golden_carrot": "2024-12-27 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2024-12-27 17:18:11 +0000"
     },
     "done": true
   },

@@ -749,3 +749,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [27Dec2024 17:13:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [27Dec2024 17:16:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [27Dec2024 17:16:07.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 17:16:19.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Stare Into Despair]
+[27Dec2024 17:16:34.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Fallen Sorcerer]
+[27Dec2024 17:16:42.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Real Blessing]
+[27Dec2024 17:16:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Trick-or-Treat?]
+[27Dec2024 17:17:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Arghh, Where be Me Ship?]
+[27Dec2024 17:17:51.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Need A Map?]
+[27Dec2024 17:18:11.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Mirror Of The Soul]
+[27Dec2024 17:18:25.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Welcome To The Jungle]
+[27Dec2024 17:18:52.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 17:20:05.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[27Dec2024 17:20:51.924] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #tlc:lost_castle_map (tlc:lost_castle) took 5774 ms
+[27Dec2024 17:20:51.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
+[27Dec2024 17:21:08.238] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1039, y=-32, z=1267}
+[27Dec2024 17:21:08.240] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1043, y=-26, z=1263}
+[27Dec2024 17:21:08.241] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1045, y=-26, z=1263}
+[27Dec2024 17:21:08.241] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1043, y=-49, z=1265}
+[27Dec2024 17:21:08.241] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1043, y=-48, z=1265}
+[27Dec2024 17:21:08.242] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1045, y=-49, z=1265}
+[27Dec2024 17:21:08.242] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1048, y=-36, z=1271}
+[27Dec2024 17:21:08.243] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1040, y=-33, z=1271}
+[27Dec2024 17:21:08.243] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1044, y=-35, z=1273}
+[27Dec2024 17:21:08.243] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1041, y=-31, z=1264}
+[27Dec2024 17:21:08.245] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1041, y=-26, z=1272}
+[27Dec2024 17:21:08.245] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1047, y=-26, z=1272}
+[27Dec2024 17:21:13.899] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1033, y=-49, z=1247}
+[27Dec2024 17:21:13.903] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1033, y=-49, z=1248}
+[27Dec2024 17:21:15.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to -4271.500000, 80.000000, -4447.500000]
+[27Dec2024 17:21:15.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 0.0025810882725636475,-10.806526110008988,-0.42071852088611195
+[27Dec2024 17:21:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 17:21:17.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10230ms or 204 ticks behind
+[27Dec2024 17:21:21.077] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1020, y=-49, z=1315}
+[27Dec2024 17:21:21.079] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1020, y=-50, z=1315}
+[27Dec2024 17:21:21.081] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1015, y=-49, z=1315}
+[27Dec2024 17:21:21.081] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1015, y=-50, z=1315}
+[27Dec2024 17:21:21.083] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1014, y=-48, z=1312}
+[27Dec2024 17:21:21.085] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1020, y=-47, z=1315}
+[27Dec2024 17:21:21.085] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1020, y=-48, z=1315}
+[27Dec2024 17:21:21.087] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1015, y=-47, z=1315}
+[27Dec2024 17:21:21.087] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1015, y=-48, z=1315}
+[27Dec2024 17:21:26.589] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1021, y=-46, z=1237}
+[27Dec2024 17:21:26.590] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1021, y=-41, z=1237}
+[27Dec2024 17:21:26.590] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1028, y=-46, z=1237}
+[27Dec2024 17:21:26.591] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1028, y=-41, z=1237}
+[27Dec2024 17:21:27.535] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1044, y=-49, z=1236}
+[27Dec2024 17:24:15.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/9531, l='ServerLevel[world]', x=-4360.50, y=59.00, z=-4326.50]
+[27Dec2024 17:24:26.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 17:26:36.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[27Dec2024 17:28:04.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[27Dec2024 17:28:14.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 17:30:19.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Dec2024 17:31:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[27Dec2024 17:31:17.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vex
+[27Dec2024 17:31:25.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[27Dec2024 17:31:26.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 17:32:16.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
