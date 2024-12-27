@@ -8382,127 +8382,13 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2024-12-27 17:27:46 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/rogue_eye": {
-    "criteria": {
-      "rogue_eye": "2024-12-27 17:18:25 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_wishing_well": {
-    "criteria": {
-      "location0": "2024-12-27 16:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2024-12-27 17:39:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-27 17:50:55 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/purpur_altar": {
-    "criteria": {
-      "has_end_stone": "2024-12-27 17:50:55 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/magical_eye": {
-    "criteria": {
-      "magical_eye": "2024-12-27 17:16:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-27 17:28:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/turtle_helmet": {
-    "criteria": {
-      "has_turtle_helmet": "2024-12-27 17:33:30 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:enigma": {
-    "criteria": {
-      "requirement": "2024-12-27 17:47:28 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/nether_eye": {
-    "criteria": {
-      "nether_eye": "2024-12-27 17:16:19 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/evil_eye": {
-    "criteria": {
-      "evil_eye": "2024-12-27 17:16:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2024-12-27 17:52:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-27 17:50:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-27 17:28:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/prismarine_shard": {
-    "criteria": {
-      "has_prismarine_shard": "2024-12-27 17:39:52 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:emberblade": {
-    "criteria": {
-      "requirement": "2024-12-27 17:45:36 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/witch_eye": {
-    "criteria": {
-      "witch_eye": "2024-12-27 17:16:49 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/lost_eye": {
-    "criteria": {
-      "lost_eye": "2024-12-27 17:17:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2024-12-27 17:41:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-27 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_carrot": {
     "criteria": {
       "has_golden_carrot": "2024-12-27 16:50:32 +0000"
     },
@@ -8514,9 +8400,33 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "dungeons_arise:find_wishing_well": {
     "criteria": {
-      "killed_dragon": "2024-12-27 17:45:22 +0000"
+      "location0": "2024-12-27 16:57:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-27 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2024-12-27 17:16:34 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2024-12-27 17:16:42 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2024-12-27 17:16:49 +0000"
     },
     "done": true
   },
@@ -8526,9 +8436,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
+  "endrem:main/lost_eye": {
     "criteria": {
-      "has_end_stone": "2024-12-27 17:50:55 +0000"
+      "lost_eye": "2024-12-27 17:17:51 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2024-12-27 17:18:11 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-12-27 17:18:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-27 17:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/turtle_helmet": {
+    "criteria": {
+      "has_turtle_helmet": "2024-12-27 17:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 17:39:52 +0000"
     },
     "done": true
   },
@@ -8544,15 +8508,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_log": "2024-12-27 17:28:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/golden_carrot": {
-    "criteria": {
-      "has_golden_carrot": "2024-12-27 16:50:32 +0000"
+      "entered_end": "2024-12-27 17:41:57 +0000"
     },
     "done": true
   },
@@ -8562,9 +8520,45 @@
     },
     "done": true
   },
-  "endrem:main/undead_eye": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "undead_eye": "2024-12-27 17:18:11 +0000"
+      "killed_dragon": "2024-12-27 17:45:22 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2024-12-27 17:45:36 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:enigma": {
+    "criteria": {
+      "requirement": "2024-12-27 17:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-27 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2024-12-27 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-27 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-27 17:50:55 +0000"
     },
     "done": true
   },
@@ -8577,6 +8571,54 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-27 17:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-27 17:52:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-12-27 19:28:36 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_chorusling": {
+    "criteria": {
+      "chorusling": "2024-12-27 19:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-27 19:27:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-27 19:23:27 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-27 19:27:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chorus_flower": {
+    "criteria": {
+      "has_chorus_flower": "2024-12-27 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-27 19:30:18 +0000"
     },
     "done": true
   },
