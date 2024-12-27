@@ -8637,6 +8637,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-27 20:16:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-12-27 19:34:05 +0000"
@@ -8697,6 +8703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-27 20:15:17 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-12-27 19:31:00 +0000"
@@ -8721,6 +8733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-12-27 20:15:17 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-12-27 19:27:12 +0000"
@@ -8736,6 +8754,12 @@
   "biomancy:recipes/biomancy/decomposing/chorus_flower": {
     "criteria": {
       "has_chorus_flower": "2024-12-27 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2024-12-27 20:20:36 +0000"
     },
     "done": true
   },

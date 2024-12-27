@@ -817,3 +817,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [27Dec2024 20:14:12.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27Dec2024 20:14:12.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27Dec2024 20:14:36.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10906, l='ServerLevel[world]', x=-1034.50, y=62.00, z=1269.50]
+[27Dec2024 20:14:58.438] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/11218, l='ServerLevel[world]', x=-994.50, y=57.00, z=1332.50]
+[27Dec2024 20:14:59.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 20:15:27.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/11332, l='ServerLevel[world]', x=-1040.50, y=49.00, z=1252.50]
+[27Dec2024 20:15:50.292] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/11433, l='ServerLevel[world]', x=-1054.50, y=49.00, z=1250.50]
+[27Dec2024 20:16:11.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/11513, l='ServerLevel[world]', x=-1055.50, y=49.00, z=1250.50]
+[27Dec2024 20:16:30.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[27Dec2024 20:16:35.720] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10685, l='ServerLevel[world]', x=-1280.64, y=66.35, z=1413.57]
+[27Dec2024 20:16:35.721] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/10686, l='ServerLevel[world]', x=-1283.11, y=66.35, z=1415.27]
+[27Dec2024 20:16:40.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 20:16:44.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Radiation Vibe]
+[27Dec2024 20:17:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[27Dec2024 20:17:12.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:17:13.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:17:13.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 20:17:15.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 20:17:41.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/12793, l='ServerLevel[world]', x=-1055.50, y=49.00, z=1249.50]
+[27Dec2024 20:17:45.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/12827, l='ServerLevel[world]', x=-938.50, y=48.00, z=1351.50]
+[27Dec2024 20:18:09.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 20:18:25.530] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13166, l='ServerLevel[world]', x=-1053.50, y=49.00, z=1251.50]
+[27Dec2024 20:18:26.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 20:18:30.479] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/12299, l='ServerLevel[world]', x=-879.91, y=62.23, z=1497.55]
+[27Dec2024 20:19:26.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[27Dec2024 20:20:36.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Death finds a Way]
+[27Dec2024 20:22:48.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3386ms or 67 ticks behind
+[27Dec2024 20:23:04.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved wrongly!
+[27Dec2024 20:23:52.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[27Dec2024 20:24:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 20:24:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[27Dec2024 20:24:47.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[27Dec2024 20:25:08.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[27Dec2024 20:25:10.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
