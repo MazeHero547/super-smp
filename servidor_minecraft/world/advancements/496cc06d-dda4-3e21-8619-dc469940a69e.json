@@ -2396,6 +2396,7 @@
       "minecraft:wither_skeleton": "2024-12-23 03:07:14 +0000",
       "minecraft:husk": "2024-12-23 01:46:19 +0000",
       "minecraft:ender_dragon": "2024-12-27 17:45:22 +0000",
+      "minecraft:shulker": "2024-12-27 19:55:49 +0000",
       "minecraft:cave_spider": "2024-12-21 02:35:28 +0000",
       "minecraft:piglin": "2024-12-26 00:34:07 +0000",
       "minecraft:stray": "2024-12-21 02:35:13 +0000",
@@ -8629,6 +8630,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2024-12-27 19:55:05 +0000"
+    },
+    "done": true
+  },
   "sons_of_sins:slice_all": {
     "criteria": {
       "slice_all_0": "2024-12-27 19:39:14 +0000"
@@ -8644,6 +8651,18 @@
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2024-12-27 19:23:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-12-27 19:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-27 19:56:05 +0000"
     },
     "done": true
   },
@@ -8665,9 +8684,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/shulker_shell": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-27 19:56:05 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/chorus_flower": {
     "criteria": {
       "has_chorus_flower": "2024-12-27 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-27 19:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-27 19:58:18 +0000"
     },
     "done": true
   },
