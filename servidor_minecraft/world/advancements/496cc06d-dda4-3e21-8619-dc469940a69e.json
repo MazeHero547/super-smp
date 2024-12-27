@@ -283,6 +283,7 @@
       "minecraft:lush_caves": "2024-12-23 22:57:02 +0000",
       "minecraft:frozen_ocean": "2024-12-23 01:43:33 +0000",
       "minecraft:jungle": "2024-12-23 21:38:22 +0000",
+      "minecraft:ocean": "2024-12-27 17:35:38 +0000",
       "minecraft:snowy_beach": "2024-12-23 01:38:22 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 22:57:56 +0000",
       "minecraft:deep_dark": "2024-12-26 16:33:20 +0000",
@@ -8398,6 +8399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 17:39:52 +0000"
+    },
+    "done": true
+  },
   "endrem:main/magical_eye": {
     "criteria": {
       "magical_eye": "2024-12-27 17:16:34 +0000"
@@ -8407,6 +8414,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/turtle_helmet": {
+    "criteria": {
+      "has_turtle_helmet": "2024-12-27 17:33:30 +0000"
     },
     "done": true
   },
@@ -8428,6 +8441,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 17:39:52 +0000"
+    },
+    "done": true
+  },
   "endrem:main/witch_eye": {
     "criteria": {
       "witch_eye": "2024-12-27 17:16:49 +0000"
@@ -8437,6 +8456,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-12-27 17:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-27 17:41:57 +0000"
     },
     "done": true
   },
@@ -8458,6 +8483,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 17:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 17:39:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-27 17:28:14 +0000"
@@ -8467,6 +8504,12 @@
   "biomancy:recipes/biomancy/decomposing/golden_carrot": {
     "criteria": {
       "has_golden_carrot": "2024-12-27 16:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-27 17:41:57 +0000"
     },
     "done": true
   },
